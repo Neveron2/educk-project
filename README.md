@@ -27,11 +27,6 @@ Educk é uma plataforma educacional completa desenvolvida como projeto acadêmic
 - **JWT**: Autenticação baseada em tokens
 - **Mongoose**: ODM para MongoDB
 
-### Landing Page
-- **HTML5**: Estruturação do conteúdo
-- **CSS3**: Estilização e responsividade
-- **JavaScript**: Interatividade e animações
-
 ## 🏗️ Arquitetura do Projeto
 
 O projeto segue uma arquitetura cliente-servidor com separação clara entre frontend e backend:
